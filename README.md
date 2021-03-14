@@ -9,7 +9,7 @@ The overall goal for this project was to create a profolio from scratch and made
 
 3. When you click on the link to the section about my work, the UI will scroll to the section with a titled image of my application
 
-4. The layout should be reponsive and adapt to other layout
+4. The layout should be responsive and adapt to other layout
 
 5. When presented with the application, the image should be larger in size than the others
 
