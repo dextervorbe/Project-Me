@@ -127,9 +127,10 @@ header a {
     width: 50%;
 }
 
-.MyWork div {
-    border: solid black;
+.divimg {
+    border: none;
     max-height: 300px;
+    object-fit: contain;
     display: flex;
     margin-left: auto;
     margin-right: auto;
